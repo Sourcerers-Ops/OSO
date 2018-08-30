@@ -10,7 +10,10 @@ The purpose of this document is to outline a brief but complete style guide for 
 
 #### Introduction
 
-{The introduction should give a complete but brief description of the document’s purpose and contents in paragraph format, as well as any requisite reading to understand the document.}
+{ 
+The introduction should give a complete but brief description of the document’s purpose and contents in paragraph format, as well as any requisite reading to understand the document.  
+
+}
 
 #### Table of Contents
 
