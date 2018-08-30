@@ -14,14 +14,16 @@ The purpose of this document is to outline a brief but complete style guide for 
 
 ##### Table of Contents
 
-{[Topic 1](#Topic-1)}
-{[Topic 2](#Topic-2)}
-{[Topic 3](#Topic-3)}
+{[Topic 1](#Topic-1)}  
+{[Topic 2](#Topic-2)}  
+{[Topic 3](#Topic-3)}  
 
 
 ##### {Topic 1}
 
-{Within any given topic, there can exist any combination of written paragraphs, numbered and bullet-point lists, hyperlinks and images. Written paragraphs should be kept to a maximum of 12 unbroken lines. When emphasis is needed, *italics* or **bolded text** may be used}
+{
+Within any given topic, there can exist any combination of written paragraphs, numbered and bullet-point lists, hyperlinks and images. Written paragraphs should be kept to a maximum of 12 unbroken lines. When emphasis is needed, *italics* or **bolded text** may be used
+}
 
 ##### {Topic 2}
 
