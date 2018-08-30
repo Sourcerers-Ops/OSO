@@ -1,2 +1,0 @@
-# OSO
-Open Source Operations
