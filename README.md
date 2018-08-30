@@ -4,7 +4,7 @@ Welcome to the Sourcerers.io 'Open Source Operations' project. This repository r
 
 Github was chosen as a home for this project precisely due to the ease with which this work can be replicated and line-edited. All initialized documents are or will be prepared in spell-and-grammar-correcting clients before being formatted into markdown according to the [styles guide](https://github.com/Sourcerers-Ops/OSO/blob/master/styles.md). Each file will live in one of the initialized folders, described below.
 
-##### Directories
+#### Directories
 
 Our initial directories are modeled off of the service types we provide as a team. Below they are listed alongside brief descriptions of their content scope.
 
