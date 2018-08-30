@@ -10,10 +10,7 @@ The purpose of this document is to outline a brief but complete style guide for 
 
 #### Introduction
 
-{ 
-The introduction should give a complete but brief description of the document’s purpose and contents in paragraph format, as well as any requisite reading to understand the document.  
-
-}
+{ The introduction should give a complete but brief description of the document’s purpose and contents in paragraph format, as well as any requisite reading to understand the document.  }
 
 #### Table of Contents
 
@@ -24,9 +21,7 @@ The introduction should give a complete but brief description of the document’
 
 #### {Topic-1}
 
-{ 
-Within any given topic, there can exist any combination of written paragraphs, numbered and bullet-point lists, hyperlinks and images. Written paragraphs should be kept to a maximum of 12 unbroken lines. When emphasis is needed, *italics* or **bolded text** may be used.  
-}
+{Within any given topic, there can exist any combination of written paragraphs, numbered and bullet-point lists, hyperlinks and images. Written paragraphs should be kept to a maximum of 12 unbroken lines. When emphasis is needed, *italics* or **bolded text** may be used.}
 
 #### {Topic-2}
 
@@ -45,12 +40,12 @@ a. Start sub-routine
 b. Finish second thing
 3. Third thing
 
-}
+}  
 
 #### {Topic-3}
-{
+{  
 When hyperlinking external resources, default to using [inline links within paragraphs](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) wherever possible.
 
 Similarly, when inserting images, default to using inline formats with simple complete images names e.g.: ![Sourcerers.io](https://github.com/Sourcerers-Ops/Sourcerers.io/blob/master/Assets/white512.png)
 
-}
+}  
