@@ -35,9 +35,9 @@ Unordered lists can be utilize bullet-point format:
 
 Ordered and/or indented lists can utilize a typical number/letter outline scheme:
 1. First thing
-2. Second thing
-a. Start sub-routine
-b. Finish second thing
+2. Second thing  
+a. Start sub-routine   
+b. Finish second thing   
 3. Third thing
 
 }  
