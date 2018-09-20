@@ -14,9 +14,9 @@ The purpose of this document is to outline a brief but complete style guide for 
 
 #### Table of Contents
 
-{[Topic-1](#Topic-1)}  
-{[Topic-2](#Topic-2)}  
-{[Topic-3](#Topic-3)}  
+{[Topic 1](#Topic-1)}  
+{[Topic 2](#Topic-2)}  
+{[Topic 3](#Topic-3)}  
 
 
 #### {Topic-1}
