@@ -20,19 +20,19 @@ The purpose of this document is to provide a clear understanding for how Sourcer
 #### Steps for Requesting ETH Transfer
 
 
-ETH total is calculated for team member expenses and service provider invoices.
-ETH total is calculated for operations salaries.
-ETH total is calculated for developer salaries.
-This information can be recorded in a designated customer file or shared sheet
-A request is sent to the client to initiate a transfer from their multisig to Sourcerers’ hot wallet payroll addresses for the amounts calculated above.
-Once funds are received, Sourcerers will confirm with the client that the request has gone through and is being processed.
+1. ETH total is calculated for team member expenses and service provider invoices.
+2. ETH total is calculated for operations salaries.
+3. ETH total is calculated for developer salaries.
+4. This information can be recorded in a designated customer file or shared sheet
+5. A request is sent to the client to initiate a transfer from their multisig to Sourcerers’ hot wallet payroll addresses for the amounts calculated above.
+6. Once funds are received, Sourcerers will confirm with the client that the request has gone through and is being processed.
 
 #### Steps for Distributing Payment
 
-[ETH Gas Station](https://ethgasstation.info/) is a useful tool for finding latest gas price to optimize speed and cost of transactions.
-[MyCrypto](https://mycrypto.com/) is used to send payments for invoices from service providers and to send reimbursement for designated team members.
-All tx URLs are recorded and forwarded to appropriate parties.
-Operations team member salaries are distributed.
-All tx URLs are recorded and forwarded to each operations team member.
-Developer team member salaries are distributed.
-All tx URLs are recorded and forwarded to each developer team member.
+1. [ETH Gas Station](https://ethgasstation.info/) is a useful tool for finding latest gas price to optimize speed and cost of transactions.
+2. [MyCrypto](https://mycrypto.com/) is used to send payments for invoices from service providers and to send reimbursement for designated team members.
+3. All tx URLs are recorded and forwarded to appropriate parties.
+4. Operations team member salaries are distributed.
+5. All tx URLs are recorded and forwarded to each operations team member.
+6. Developer team member salaries are distributed.
+7. All tx URLs are recorded and forwarded to each developer team member.
