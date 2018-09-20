@@ -26,12 +26,12 @@
 * Posts made to Medium should be announced through the following chat channels:
 1. Slack Announcements
 2. Telegram Announcements
-3. Telegram General (pin)
+3. [Telegram General](https://t.me/district0x)
 * Post should be made to the following Reddits:
 1. r/ethereum
 2. r/ethtrader
 3. r/cryptocurrency
-4. r/district0x (pin)
+4. [r/district0x](https://www.reddit.com/r/district0x/)
 * Posts of larger significance should be passed to the WeChat group in order to be translated and posted in Chinese
 * Posts of larger significance should also be published to Steemit
 * Every post should be shared on Twitter and Facebook
