@@ -8,10 +8,10 @@ These are only the most basic standards used when first evaluating the viability
 
 #### Table of Contents
 
-[Project Roadmap and Funding Status](#Project)  
-[Team and Contact Information](#Team)  
-[Conduct, Ethos, and Externalities](#Conduct)  
-[Conclusion](#Conclusion)  
+[Project Roadmap and Funding Status](#project)  
+[Team and Contact Information](#team)  
+[Conduct, Ethos, and Externalities](#conduct)  
+[Conclusion](#conclusion)  
 
 #### Project Roadmap and Funding Status
 
