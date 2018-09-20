@@ -5,12 +5,12 @@
 The purpose of this document is to provide insight into how Sourcerers provides 3rd party onboarding and staffing services for our clients. It is assumed below that the service provider successfully passes each step.
 
 #### Table of Contents
-[Sourcing](#sourcing)
-[Initial Outreach](#initial-outreach)
-[Screening Interview](#screening-interview)
-[Technical Interview With Client](#technical-interview-with-client)
-[Negotiation](#negotiation)
-[Onboarding to Team](#onboarding-to-team)  
+[Sourcing](#sourcing)  
+[Initial Outreach](#initial-outreach)  
+[Screening Interview](#screening-interview)  
+[Technical Interview With Client](#technical-interview-with-client)  
+[Negotiation](#negotiation)  
+[Onboarding to Team](#onboarding-to-team)   
 
 #### Sourcing
 
