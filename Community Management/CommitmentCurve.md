@@ -4,7 +4,7 @@ As a general rule of thumb, your community should revolve around a central goal 
 
 #### Table of Contents
 
-[Start with “Why?”](#start-with-"why?")  
+[Start with “Why?”](#start-with-why)  
 [Establishing goals](#establishing-goals)    
 [Planning your Commitment Curve](#planning-your-commitment-curve)  
 [Building your Commitment Curve](#building-your-commitment-curve)  
