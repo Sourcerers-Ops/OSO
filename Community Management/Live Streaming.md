@@ -5,8 +5,7 @@ This guide will serve as a general operational overview of how to get started li
 #### Table of Contents
 
 [Software & Tools](#software-tools)  
-[Streaming Platforms](#streaming-platforms)  
-[Streaming “How To” Video](#streaming-how-to-video)  
+[Streaming Platforms](#streaming-platforms)   
 [Live Interview Production](#live-interview-production)  
 [Tips and Suggestions](#tips-and-suggestions)  
 
