@@ -10,7 +10,9 @@ https://t.me/district0xNetwork
 
 Rules
 
-🌏 Welcome | 👉🏽 Click for ‘Rules’ and info. ℹ️ Powered by Ethereum, Aragon, and IPFS.
+🌏 Welcome | 👉🏽 Click for ‘Rules’ and info. 
+
+ℹ️ Powered by Ethereum, Aragon, and IPFS.
 
 ℹ️ district0x is building a network of decentralized markets and communities operated by the users. Powered by Ethereum, Aragon, and IPFS.  
 
