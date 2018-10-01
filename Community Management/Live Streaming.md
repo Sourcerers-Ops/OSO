@@ -4,12 +4,12 @@ This guide will serve as a general operational overview of how to get started li
 
 #### Table of Contents
 
-[Software & Tools](#software-tools)  
+[Software and Tools](#software-and-tools)  
 [Streaming Platforms](#streaming-platforms)   
 [Live Interview Production](#live-interview-production)  
 [Tips and Suggestions](#tips-and-suggestions)  
 
-#### Software & Tools
+#### Software and Tools
 For an overview of the tools described below, see the [‘Software and Setup’](https://youtu.be/FsK3V1Cgrmo?t=44m3s) section of the educational stream. These are the current tools that Sourcerers uses when producing a stream. As mentioned before, nothing is standardized and these tools are subject to change often. You should be experimenting with as many tools as you can because the live streaming community is changing fast and new things emerge all the time. Watch other streams and see what people are talking about and using. You may find a hidden gem you can incorporate into your live stream.
 
 Streaming Software  
