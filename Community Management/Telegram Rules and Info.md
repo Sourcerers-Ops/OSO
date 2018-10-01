@@ -12,19 +12,19 @@ Rules
 
 🌏 Welcome | 👉🏽 Click for ‘Rules’ and info. ℹ️ Powered by Ethereum, Aragon, and IPFS.
 
-ℹ️ district0x is building a network of decentralized markets and communities operated by the users. Powered by Ethereum, Aragon, and IPFS.
+ℹ️ district0x is building a network of decentralized markets and communities operated by the users. Powered by Ethereum, Aragon, and IPFS.  
 
-——————
-🚨 RULES 🚨
-——————
+——————  
+🚨 RULES 🚨  
+——————  
 🔴 NO trading, exchange or speculation discussion 
 🔴 NO promotional content or advertisements  
 🔴 DO NOT troll and please remain cordial at all times  
 🔴 DO NOT spam (results in a ban)  
 
-——————————————
- 🚧 WORDS OF CAUTION 🚧
-——————————————
+——————————————  
+ 🚧 WORDS OF CAUTION 🚧  
+——————————————  
 ❗️Don’t trust promotional messages from anyone.  
 ❗️Be suspicious of anyone asking for help in private.  
 ❗️Public channels are for you to seek help, use them.  
@@ -32,9 +32,9 @@ Rules
 ❗️Never share anything unless you want it to be public.  
 ❗️DO NOT share private keys/passwords ever.  
 
-—————————
-💎RESOURCES 💎
-—————————
+—————————  
+💎RESOURCES 💎  
+—————————  
 🌏 **Our Website:** https://district0x.io/  
 📚 Educational Portal: http://bit.ly/d0x-edu  
 ❓ What is district0x: https://bit.ly/2vcgjB9  
@@ -45,16 +45,16 @@ Rules
 💻 **Our Github:** https://github.com/district0x  
 🎬 What is district0x?: https://bit.ly/2vcgjB9  
 
-———————————
-📡  LIVE STREAMS 📡
-———————————
+———————————  
+📡  LIVE STREAMS 📡  
+———————————  
 📺 Mixer: http://bit.ly/d0xMixer  
 📺 Twitch: http://bit.ly/d0xTwitch  
 📺 Youtube: http://bit.ly/d0xlive  
 
-———————————————
-🛠 PROJECTS AND DISTRICTS 🛠
-———————————————
+———————————————  
+🛠 PROJECTS AND DISTRICTS 🛠  
+———————————————  
 💼 https://ethlance.com/ (Freelancing)  
 🚲 https://namebazaar.io/ (ENS)  
 🐸 https://memefactory.io/ (Digital collectibles)  
