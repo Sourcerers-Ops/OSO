@@ -17,7 +17,7 @@ Rules
 ——————  
 🚨 RULES 🚨  
 ——————  
-🔴 NO trading, exchange or speculation discussion 
+🔴 NO trading, exchange or speculation discussion  
 🔴 NO promotional content or advertisements  
 🔴 DO NOT troll and please remain cordial at all times  
 🔴 DO NOT spam (results in a ban)  
