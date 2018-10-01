@@ -153,7 +153,7 @@ Pre-Stream (For Streamer)
 6. Announce to other relevant groups that allow it.
 7. Mute audio on broadcast software and wait for guest to arrive.
 
-During Stream (Streamer
+During Stream (Streamer)
 1. Read the guest their intro to confirm accuracy, ensure they have a link to the questions and understand the format.
 2. Pull up stream intro screen
 3. Start intro screen and wait till the top of the hour.
