@@ -27,7 +27,7 @@
 1. Client's Slack Announcements
 2. Client's Telegram Announcements
 3. Client's Telegram Channel
-* Post should be made to the following Reddits:
+* Posts should be made to the following Reddits:
 1. r/ethereum
 2. r/ethtrader
 3. r/cryptocurrency
