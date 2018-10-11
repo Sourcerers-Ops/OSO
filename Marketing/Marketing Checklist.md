@@ -8,7 +8,7 @@
 [Step 3: Competitor Audit If Necessary](#step-3-competitor-audit-if-necessary)  
 [Step 4: SEO Audit](#step-4-seo-audit)  
 [Step 5: Internal Website Content](#step-5-internal-website-content)  
-[Step 6: External Website Content](#step-6-external-wesbite-content)  
+[Step 6: External Website Content](#step-6-external-website-content)  
 [Step 7: Increasing “Top Of Funnel”](#step-7-increasing-top-of-funnel)  
 
 
