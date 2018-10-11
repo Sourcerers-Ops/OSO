@@ -23,8 +23,8 @@
 
 #### Step 1: Install/Verify Data Marketing/Analytics Software
 1. Verify Google Analytics & Google Search Console
-A. Check for the HTML code in before the <head/>  tag
-B. Check using [builtwith.com](https://builtwith.com/)
+a. Check for the HTML code in before the <head/>  tag
+b. Check using [builtwith.com](https://builtwith.com/)
 2. If installed = gain access by having the administrator add your Google email address.
 3. If NOT installed = create the account & follow steps to verify account ownership.
 4. Any additional data/analytics systems? Gain access to anything else you may need like the website/backend or any additional content management systems or softwares.
