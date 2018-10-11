@@ -22,8 +22,8 @@
 7. How are they measuring success? What are the KPI’s (key performance indicators)?
 
 #### Step 1: Install/Verify Data Marketing/Analytics Software
-1. Verify Google Analytics & Google Search Console
-a. Check for the HTML code in before the <head/>  tag
+1. Verify Google Analytics & Google Search Console  
+a. Check for the HTML code in before the <head/>  tag  
 b. Check using [builtwith.com](https://builtwith.com/)
 2. If installed = gain access by having the administrator add your Google email address.
 3. If NOT installed = create the account & follow steps to verify account ownership.
