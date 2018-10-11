@@ -8,7 +8,7 @@
 [Step 3: Competitor Audit If Necessary](#step-3-competitor-audit-if-necessary)  
 [Step 4: SEO Audit](#step-4-seo-audit)  
 [Step 5: Internal Website Content](#step-5-internal-website-content)  
-[Step 6: External Website Content (Content Marketing)](#step-6-external-wesbite-content)  
+[Step 6: External Website Content](#step-6-external-wesbite-content)  
 [Step 7: Increasing “Top Of Funnel”](#step-7-increasing-top-of-funnel)  
 
 
@@ -106,7 +106,7 @@ B. Split test 3-5 different blog posts to see which ones drive the highest volum
 12. Need more website content? Visit sites like [fiverr.com](https://www.fiverr.com/) to find freelancers to help with graphic design, videos, infographics or even various marketing initiatives.
 
 
-#### Step 6: External Website Content (Content Marketing)
+#### Step 6: External Website Content
 1. Create a “Media Kit” for the company/brand
 A. Include background, story, relevant quotes from key stakeholders, important calls to action, links to important documents/channels, images, videos and any relevant information.
 B. Design using a PDF Template, Custom Word Doc, or Slide presentation.
