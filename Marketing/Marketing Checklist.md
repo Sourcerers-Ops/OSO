@@ -2,7 +2,7 @@
 
 
 #### Table of Contents
-[Step 0: Interview Your Customer/Team](#step-0-interview-your-customer-team)  
+[Step 0: Interview Your Customer/Team](#step-0-interview-your-customerteam)  
 [Step 1: Install/Verify Data Marketing/Analytics Software](#step-1-install-verify-data-marketing-analytics-software)  
 [Step 2: Ensure Necessary Accounts Are Created/Accessible](#step-2-ensure-necessary-accounts-are-created-accessible)  
 [Step 3: Competitor Audit (If Necessary)](#step-3-competitor-audit-if-necessary)  
