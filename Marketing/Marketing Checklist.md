@@ -3,9 +3,9 @@
 
 #### Table of Contents
 [Step 0: Interview Your Customer/Team](#step-0-interview-your-customerteam)  
-[Step 1: Install/Verify Data Marketing/Analytics Software](#step-1-install-verify-data-marketing-analytics-software)  
-[Step 2: Ensure Necessary Accounts Are Created/Accessible](#step-2-ensure-necessary-accounts-are-created-accessible)  
-[Step 3: Competitor Audit (If Necessary)](#step-3-competitor-audit-if-necessary)  
+[Step 1: Install/Verify Data Marketing/Analytics Software](#step-1-installverify-data-marketinganalytics-software)  
+[Step 2: Ensure Necessary Accounts Are Created/Accessible](#step-2-ensure-necessary-accounts-are-createdaccessible)  
+[Step 3: Competitor Audit (If Necessary)](#step-3-competitor-audit-(if-necessary))  
 [Step 4: SEO Audit](#step-4-seo-audit)  
 [Step 5: Internal Website Content](#-step-5-internal-website-content)  
 [Step 6: External Website Content (Content Marketing)](#step-6-external-wesbite-content-content-marketing)  
