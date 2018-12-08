@@ -1,6 +1,6 @@
 # Commitment Curve
 
-As a general rule of thumb, your community should revolve around a central goal or theme. This initial goal creation will help when engaging and building a core group of contributors. Once you have established your goals you will then start formulating a plan to get your community to those end goals.
+A commitment curve is basically a community roadmap that takes people to the end goal of being an active contributor or leader in the community. To do this, many communities use a strategy called the "Commitment Curve". As a general rule of thumb, your community should revolve around a central goal or theme. This initial goal creation will help when engaging and building a core group of contributors. Once you have established your goals you will then start formulating a plan to get your community to those end goals at the tail end of your "curve".
 
 #### Table of Contents
 
