@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This document outlines a set of both criterion and more general guidelines under which Sourcerers Ops conducts itself when engaging in partnerships with any cryptocurrency or digital asset exchange, on behalf of our clients. This can be thought of as an extension of the [Policy on Partnerships](https://github.com/Sourcerers-Ops/OSO/Strategy/Policy%on%Partnerships.md). Working mostly with ERC20 token-based projects in the past, we realize how crucial it is to carefully manage associations for clients in an ecosystem awash with uncertainty and unscrupulous conduct, and have created this auxiliary document as a result. 
+This document outlines a set of both criterion and more general guidelines under which Sourcerers Ops conducts itself when engaging in partnerships with any cryptocurrency or digital asset exchange, on behalf of our clients. This can be thought of as an extension of the [Policy on Partnerships](https://github.com/Sourcerers-Ops/OSO/blob/master/Strategy/Policy%20on%20Partnerships.md). Working mostly with ERC20 token-based projects in the past, we realize how crucial it is to carefully manage associations for clients in an ecosystem awash with uncertainty and unscrupulous conduct, and have created this auxiliary document as a result. 
 
 #### Table of Contents
 
@@ -32,7 +32,7 @@ Several Sourcerers team members are intimately aware of the stringent requiremen
 
 #### Other Considerations
 
-To reiterate the points made at the top of this document as well as in our Policy on Partnerships, the ecosystem of cryptocurrency exchanges is becoming crowded with many new players. Many of these exchanges monetize through dishonest methods, or engage in otherwise unscrupulous behavior. It’s of the utmost important that our clients outright avoid engaging with any exchange perceived to be unprofessional or ill-prepared in their communications and conduct. Generally speaking, we’d prefer the outcome of false negatives to false positives with virtually every client.
+To reiterate the points made at the top of this document as well as in our [Policy on Partnerships](https://github.com/Sourcerers-Ops/OSO/blob/master/Strategy/Policy%20on%20Partnerships.md), the ecosystem of cryptocurrency exchanges is becoming crowded with many new players. Many of these exchanges monetize through dishonest methods, or engage in otherwise unscrupulous behavior. It’s of the utmost important that our clients outright avoid engaging with any exchange perceived to be unprofessional or ill-prepared in their communications and conduct. Generally speaking, we’d prefer the outcome of false negatives to false positives with virtually every client.
 
 #### Internal Conduct
 
