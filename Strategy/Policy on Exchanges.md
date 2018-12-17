@@ -7,7 +7,7 @@ This document outlines a set of both criterion and more general guidelines under
 #### Table of Contents
 
 [Listing Requirements](#listing-requirements)  
-[Promotion and Marketing](#promotion-and-marketing)
+[Promotion and Marketing](#promotion-and-marketing)  
 [Compliance](#compliance)  
 [Other Considerations](#other-considerations)  
 [Internal Conduct](#internal-conduct)  
