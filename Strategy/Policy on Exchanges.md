@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This document outlines a set of both criterion and more general guidelines under which Sourcerers Ops conducts itself when engaging in partnerships with any cryptocurrency or digital asset exchange, on behalf of our clients. This can be thought of as an extension of the Policy on Partnerships. Working mostly with ERC20 token-based projects in the past, we realize how crucial it is to carefully manage associations for clients in an ecosystem awash with uncertainty and unscrupulous conduct, and have created this auxiliary document as a result. 
+This document outlines a set of both criterion and more general guidelines under which Sourcerers Ops conducts itself when engaging in partnerships with any cryptocurrency or digital asset exchange, on behalf of our clients. This can be thought of as an extension of the [Policy on Partnerships](https://github.com/Sourcerers-Ops/OSO/Strategy/Policy%on%Parternships.md). Working mostly with ERC20 token-based projects in the past, we realize how crucial it is to carefully manage associations for clients in an ecosystem awash with uncertainty and unscrupulous conduct, and have created this auxiliary document as a result. 
 
 #### Table of Contents
 
