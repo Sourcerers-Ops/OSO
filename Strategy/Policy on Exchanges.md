@@ -36,4 +36,4 @@ To reiterate the points made at the top of this document as well as in our [Poli
 
 #### Internal Conduct
 
-Every Sourcerers team member is trained to keep all of our client’s dealings concealed not only from third parties, but even amongst ourselves we share information on a need-to-know basis. When dealing with the even more sensitive information involved in an exchange listing one of our client’s, we take great care to avoid any misgivings that may lead to insider trading, and make overt efforts to place all team members working with that client under the exchanges non-disclosure agreement.
+Every Sourcerers team member is trained to keep all of our client’s dealings concealed not only from third parties, but even amongst ourselves we share information on a need-to-know basis. When dealing with the even more sensitive information involved in an exchange listing one of our clients, we take great care to avoid any misgivings that may lead to insider trading, and make overt efforts to place all team members working with that client under the exchanges non-disclosure agreement.
