@@ -34,62 +34,62 @@ There are many software options for live streaming, however the following two ar
 * [Scorpbot](https://scorpbot.com/) - A Multi use bot that works for Twitch and [mixer.com](mixer.com)
 * [Nightbot ](https://beta.nightbot.tv/)- Youtube/Twitch moderation, automation, and commands
 
-#### Streaming Platforms
+## Streaming Platforms
 Each of this has features that may work better depending on your needs and use case. However, Sourcerers takes the multi streaming strategy using Restream.io. This does however make your streaming setup more involved but you will capture more of an audience if you go to your audience rather than making them come to you. Having backup streams is also great if a streaming service shuts off your stream or goes down. Which happens to even the largest youtube stars and streaming channels. It’s also good to give your viewers options so they never miss your stream.
 
-Let’s dive into the pros and cons of each platform:
+### Platform Pros and Cons
 
-[Twitch](https://www.twitch.tv/)  
-Pros:
+### [Twitch](https://www.twitch.tv/)  
+#### Pros:
 1. Twitch is useful for people who may like to watch the stream but don’t like Mixer.
 2. Has great automoderator features and if set to the strictest setting you can easily take care of a disruptive viewer without disrupting the stream.
 3. They have a new [“Crypto”](https://www.twitch.tv/directory/game/Crypto) specific streaming category.
 
-* Cons:
+#### Cons:
 1. Twitch is significantly competitive in terms of viewership and has a culture that is more gaming oriented.
 2. If you acquire partnership they will require you to eliminate your activity on other streaming platforms.
 3. it’s hard to interact and moderate Twitch if multistreaming unless you use their tools and platform exclusively or have a dedicated mod.
 
-#### Facebook  
-Pros:
+### Facebook  
+#### Pros:
 1. Integrates with your chat software if multistreaming
 2. Decent quality and easy to share across all of facebook. Great statistics and demographics on viewers
 3. Has a number of plugins available to integrate interactivity into your streaming software.
 
-* Cons:
+#### Cons:
 1. Blocks all “crypto” and “blockchain” tags and will de-prioritize your streams, resulting in less views.
 2. Facebook is a frustrating platform to stream to, however it is slowly getting better. They are simply not as far ahead as other options.
 3. Not as open as other platforms and limited integrations with the development and bot community.
 
-#### Twitter (Periscope)  
-* Pros:
+### Twitter (Periscope)  
+#### Pros:
 1. Great way to stream to many people who are actively engaged in decentralization and token based projects.
 2. Easy to set up.
 
-* Cons:
+#### Cons:
 1. Difficult to engage people in an interactive way if multi streaming
 2. No way to easily aggregate chat and comments into a multi-streaming model.
 3. Spam comments are hard to handle while streaming.
 
-#### Youtube  
-Pros:
+### Youtube  
+#### Pros:
 1. Easy for people to view.
 2. Easy to aggregate chat into a multistreaming model.
 3. Simple to set up
 4. Acts as a simple backup and archive system for a multistreaming model.
 
-* Cons:
+#### Cons:
 1. Youtube will actively de-prioritize streams based on keywords and content.
 2. Youtube has limited engagement, moderation, and bots that other platforms provide.
 3. Youtube will mute streams and disable the ability to download your own stream if you play music even if you own rights or a license to it.
 
-#### LivePeer  
-* Pros:
+### LivePeer  
+#### Pros:
 1. Great way to have a censorship resistant backbone for your stream
 2. Compatible with Restream
 3. Ethereum based project
 
-* Cons:
+#### Cons:
 1. Has a learning curve
 2. May cost extra depending on how you have your stream setup and hosted.
 3. Still in early development
@@ -112,9 +112,9 @@ In this section we dive into the internal process of how the district0x communit
 In this section we cover many of the basics of setting up scenes, audio, video, cameras, plugins, and the various features of OBS as well as Xsplit, two of the more popular streaming platforms. If you are familiar with photoshop and layers, much of this will come as second nature. The hard part is getting all this ready long before you go live, so you aren’t scrambling to get ready as you go live. Preparation is everything.
 
 #### Live Interview Production
-In this section we will cover a standard operating procedure (SOP) for a live interview stream that Sourcerers produces for the district0x community.Interviews are conducted through [Appear.in](https://appear.in) to reduce friction with getting guests live, as no account is needed. The stream’s video feed is used as the camera in Appear.in, so the guest can easily read and interact with the live chat without leaving Appear.in. The first five minutes of stream is an introduction to the guest/project as well as relevant or important news/content.
+In this section we will cover a standard operating procedure (SOP) for a live interview stream that Sourcerers produces for the district0x community.Interviews are conducted through [https://whereby.com/user](https://whereby.com/user) to reduce friction with getting guests live, as no account is needed. The stream’s video feed is used as the camera in Appear.in, so the guest can easily read and interact with the live chat without leaving Appear.in. The first five minutes of stream is an introduction to the guest/project as well as relevant or important news/content.
 
-A participation tracking bot called [ScorpBot](https://scorpbot.com/) is used to reward Mixer.com and Twitch.tv viewers with points that can be redeemed for various rewards, moderation privileges, exclusive access, swag etc. Viewers need to be logged into Mixer or Twitch to participate/earn stream rewards.
+A participation tracking bot called [ScorpBot](https://scorpbot.com/) is used to reward viewers with points that can be redeemed for various rewards, moderation privileges, exclusive access, swag etc. Viewers need to be logged in to participate/earn stream rewards.
 
 About the Show
 Originally, the show was produced as a single weekly online meetup exclusively for the district0x community called ‘The District Digest’. The show started as a community curated show and has since evolved into two separate shows called ‘The District Roundup’ and ‘The Dapp Digest’.
@@ -126,7 +126,7 @@ All completed streams are available on YouTube so they can be accessed by anyone
 **Pre-Stream (Streamer)**  
 ***Important*** **(A pre stream speed test is conducted to ensure upload and download speeds are optimal. If speed tests are sub-optimal, the stream should be cancelled or rescheduled.)**
 
-Confirming Guest (For Streamer)
+#### Confirming Guest (For Streamer)
 1. Guests are confirmed by via [Calendly](https://calendly.com/district0x/districtdigest/04-02-2018).
 2. Prepare guest question submission form and thumbnail image for social media after confirmation.
 3. Participants are emailed a welcome packet, detailing all the information they need to get started along with the custom image and the question submission link.
@@ -134,7 +134,7 @@ Confirming Guest (For Streamer)
 5. Research is conducted for the project and a summary/introduction of guest and project is prepared.
 6. Guest are provided with questions at least one day in advance so they can screen them.
 
-Pre-Stream (For Streamer)
+#### Pre-Stream (For Streamer)
 1. Send reminder to guest with links for joining call one hour prior, reminding them to show up 15 minutes early.
 2. Change stream title in streaming software and Restream,
 3. Tune lighting, test sound and prep cameras.
@@ -143,7 +143,7 @@ Pre-Stream (For Streamer)
 6. Announce to other relevant groups that allow it.
 7. Mute audio on broadcast software and wait for guest to arrive.
 
-During Stream (Streamer)
+#### During Stream (Streamer)
 1. Read the guest their intro to confirm accuracy, ensure they have a link to the questions and understand the format.
 2. Pull up stream intro screen
 3. Start intro screen and wait till the top of the hour.
@@ -154,7 +154,7 @@ During Stream (Streamer)
 8. Complete interview with a live AMA and giveaway (if there is time).
 9. End broadcast and have a short feedback session with guest, add them to a “thank you package” mailing list. (Shirts, stickers, etc)
 
-Pre-Stream (Guest)
+#### Pre-Stream (Guest)
 1. Confirm date using Calendly
 2. Wait for confirmation email along with welcome package.
 3. Guests are encouraged to share with their entire community, announcing their participation in the stream and to source questions for the interview.
@@ -162,7 +162,7 @@ Pre-Stream (Guest)
 5. Guests are encouraged to find a quiet place free of sounds and distraction.
 6. Guests confirm questions and other interview content and are given the opportunity to ask questions.
 
-Post Stream
+#### Post Stream
 1. Distribute rewards and collect information from giveaway winners.
 2. Add names and addresses to a rewards distribution spreadsheet.
 3. Ensure the custom thumbnail is added to the youtube recording
@@ -175,7 +175,7 @@ c. Template is modified and personalized for each guest/company.
 7. Send a thank you email to the guests.
 8. Links to completed streams are added to weekly blog posts.
 
-#### Tips and Suggestions
+### Tips and Suggestions
 1. Take feedback - It’s important to listen to your audience (and guests), if you notice specific content doing better than others or if you feel like the audience is bored, liven things up by taking feedback, giving people bots to use during stream or even giving them control of some aspect of the stream. The single most powerful aspect of a live stream is that people can interact, unlike youtube videos.
 
 2. Be dynamic - Experiment with time slots, it’s hard to gauge who and where your primary audience will be until you get going for a while. After you start getting viewers, you can look at your analytics and see where people are and what devices they are using to adjust your content and schedule accordingly.
@@ -195,3 +195,9 @@ c. Template is modified and personalized for each guest/company.
 9. Moderators - Give your viewers a path to becoming a mod and reward them for it. Often times you can do moderator only giveaways and rewards. Give your moderators some ground rules so they know when to ban people, what you think is okay, how you handle trolls, what access and commands they have to your bots, what they should and should not say, etc.
 
 10. Make a List - A checklist will be your best friend when streaming. There is a lot to remember when conducting a stream, you will want to simplify your process as much as possible. This will help you build it as a habit but in the beginning you will need that check list. Until you have moderators and other people to help, automate everything you can. Do be mindful of how your automated posts work, spamming people can quickly make people unfollow you.  
+
+### Community Currency and Loyalty Store
+
+As a content request we will describe in detail how to create a community currency, Web3 loyalty store, and fun ways to build a rewarding experience for your viewers like we have on the [Dapp Digest](https://dappstream.live/cloudbot). 
+
+#### What you will need
