@@ -2,17 +2,17 @@
 
 This guide will serve as a general operational overview of how to get started live streaming. We will also cover all the tools and hardware needed as well as best practices. Using live streaming to build a community is a powerful and rewarding endeavor, however it will take a lot of trial and error. Many of the tools and options are evolving and nothing is standardized right now. To get a general overview of all hardware, tools, and strategies, a live stream was conducted giving [educational overview](https://www.youtube.com/watch?v=FsK3V1Cgrmo) of how an individual can start their own live stream. The slides and content used in this video can be found [here](https://docs.google.com/presentation/d/1rGTXrmiS2-85BamMe2HPfxNkeuvwNPDm3B-gIDJ_6Gs/edit?usp=sharing). This stream is produced for the [district0x community](https://discord.gg/Gjvw7qU) and gives a behind the scenes look of the operational approach Sourcerers uses when producing live content.
 
-#### Table of Contents
+## Table of Contents
 
 [Software and Tools](#software-and-tools)  
 [Streaming Platforms](#streaming-platforms)   
 [Live Interview Production](#live-interview-production)  
 [Tips and Suggestions](#tips-and-suggestions)  
 
-#### Software and Tools
+## Software and Tools
 For an overview of the tools described below, see the [‘Software and Setup’](https://youtu.be/FsK3V1Cgrmo?t=44m3s) section of the educational stream. These are the current tools that Sourcerers uses when producing a stream. As mentioned before, nothing is standardized and these tools are subject to change often. You should be experimenting with as many tools as you can because the live streaming community is changing fast and new things emerge all the time. Watch other streams and see what people are talking about and using. You may find a hidden gem you can incorporate into your live stream.
 
-Streaming Software  
+## Streaming Software  
 
 There are many software options for live streaming, however the following two are fairly standard and give all the features and needs to get started professionally or as a hobby.
 
@@ -21,7 +21,7 @@ There are many software options for live streaming, however the following two ar
 * [Streamlabs](https://streamlabs.com/) (StreamLabs OBS - AKA SLOBS) A fork of OBS. It saves A LOT of time but is a "walled garden ecosystem.
 * [Stream Elements' OBS Live](https://streamelements.com/obslive) - A fork of OBS for advanced stremers. It has all the bells and whistles and powerful tools. 
 
-#### Bots and other tools  
+### Bots and other tools  
 * [Restream](https://restream.io/) - A free tool to multi stream to many platforms simultaneously.
 * [Stream outline template](https://docs.google.com/document/d/1ajYI9svkHA-TKIrGLDlV7aMT7-aw0-a8AANu-8hT8co/edit?usp=sharing) - A basic Template for conducting a live stream
 * [ScorpBot](https://scorpbot.com/) - Points tracking, rewards, giveaways, games, etc.
@@ -94,7 +94,7 @@ Each of this has features that may work better depending on your needs and use c
 2. May cost extra depending on how you have your stream setup and hosted.
 3. Still in early development
 
-[Streaming “How To” Video](https://www.youtube.com/watch?v=FsK3V1Cgrmo&feature=youtu.be&t)  
+### [Streaming “How To” Video](https://www.youtube.com/watch?v=FsK3V1Cgrmo&feature=youtu.be&t)  
 When conducting a live stream you will have an endless stream of options and it’s easy to get lost in the weeds. It’s best to start with what you have and take feedback so you can scale things up from there. There is no sense in buying the best lighting and equipment if you are doing simple community streams.
 
 However, if you are getting into more advanced production, you may need a more powerful setup. You may even need your setup to be mobile. Regardless of your needs, it’s best to think about your equipment needed first. The educational live stream we linked in the beginning of this document will go into the following aspects of live streaming to get someone started and then get into an example of how a live interview stream is produced.
@@ -111,7 +111,7 @@ In this section we dive into the internal process of how the district0x communit
 [Software Tutorial](https://youtu.be/FsK3V1Cgrmo?t=1h3m43s)  
 In this section we cover many of the basics of setting up scenes, audio, video, cameras, plugins, and the various features of OBS as well as Xsplit, two of the more popular streaming platforms. If you are familiar with photoshop and layers, much of this will come as second nature. The hard part is getting all this ready long before you go live, so you aren’t scrambling to get ready as you go live. Preparation is everything.
 
-#### Live Interview Production
+### Live Interview Production
 In this section we will cover a standard operating procedure (SOP) for a live interview stream that Sourcerers produces for the district0x community.Interviews are conducted through [https://whereby.com/user](https://whereby.com/user) to reduce friction with getting guests live, as no account is needed. The stream’s video feed is used as the camera in Appear.in, so the guest can easily read and interact with the live chat without leaving Appear.in. The first five minutes of stream is an introduction to the guest/project as well as relevant or important news/content.
 
 A participation tracking bot called [ScorpBot](https://scorpbot.com/) is used to reward viewers with points that can be redeemed for various rewards, moderation privileges, exclusive access, swag etc. Viewers need to be logged in to participate/earn stream rewards.
@@ -123,8 +123,9 @@ The District Roundup holds true to the original format of news and updates withi
 
 All completed streams are available on YouTube so they can be accessed by anyone who missed the original broadcast.
 
-**Pre-Stream (Streamer)**  
-***Important*** **(A pre stream speed test is conducted to ensure upload and download speeds are optimal. If speed tests are sub-optimal, the stream should be cancelled or rescheduled.)**
+## **Pre-Stream (Streamer)**  
+
+#### ***Important*** **(A pre stream speed test is conducted to ensure upload and download speeds are optimal. If speed tests are sub-optimal, the stream should be cancelled or rescheduled.)**
 
 #### Confirming Guest (For Streamer)
 1. Guests are confirmed by via [Calendly](https://calendly.com/district0x/districtdigest/04-02-2018).
