@@ -21,7 +21,7 @@ There are many software options for live streaming, however the following two ar
 * [Streamlabs](https://streamlabs.com/) (StreamLabs OBS - AKA SLOBS) A fork of OBS. It saves A LOT of time but is a "walled garden ecosystem.
 * [Stream Elements' OBS Live](https://streamelements.com/obslive) - A fork of OBS for advanced stremers. It has all the bells and whistles and powerful tools. 
 
-Bots and other tools  
+#### Bots and other tools  
 * [Restream](https://restream.io/) - A free tool to multi stream to many platforms simultaneously.
 * [Stream outline template](https://docs.google.com/document/d/1ajYI9svkHA-TKIrGLDlV7aMT7-aw0-a8AANu-8hT8co/edit?usp=sharing) - A basic Template for conducting a live stream
 * [ScorpBot](https://scorpbot.com/) - Points tracking, rewards, giveaways, games, etc.
@@ -45,51 +45,51 @@ Pros:
 2. Has great automoderator features and if set to the strictest setting you can easily take care of a disruptive viewer without disrupting the stream.
 3. They have a new [“Crypto”](https://www.twitch.tv/directory/game/Crypto) specific streaming category.
 
-Cons:
+* Cons:
 1. Twitch is significantly competitive in terms of viewership and has a culture that is more gaming oriented.
 2. If you acquire partnership they will require you to eliminate your activity on other streaming platforms.
 3. it’s hard to interact and moderate Twitch if multistreaming unless you use their tools and platform exclusively or have a dedicated mod.
 
-Facebook  
+#### Facebook  
 Pros:
 1. Integrates with your chat software if multistreaming
 2. Decent quality and easy to share across all of facebook. Great statistics and demographics on viewers
 3. Has a number of plugins available to integrate interactivity into your streaming software.
 
-Cons:
+* Cons:
 1. Blocks all “crypto” and “blockchain” tags and will de-prioritize your streams, resulting in less views.
 2. Facebook is a frustrating platform to stream to, however it is slowly getting better. They are simply not as far ahead as other options.
 3. Not as open as other platforms and limited integrations with the development and bot community.
 
-Twitter (Periscope)  
-Pros:
+#### Twitter (Periscope)  
+* Pros:
 1. Great way to stream to many people who are actively engaged in decentralization and token based projects.
 2. Easy to set up.
 
-Cons:
+* Cons:
 1. Difficult to engage people in an interactive way if multi streaming
 2. No way to easily aggregate chat and comments into a multi-streaming model.
 3. Spam comments are hard to handle while streaming.
 
-Youtube  
+#### Youtube  
 Pros:
 1. Easy for people to view.
 2. Easy to aggregate chat into a multistreaming model.
 3. Simple to set up
 4. Acts as a simple backup and archive system for a multistreaming model.
 
-Cons:
+* Cons:
 1. Youtube will actively de-prioritize streams based on keywords and content.
 2. Youtube has limited engagement, moderation, and bots that other platforms provide.
 3. Youtube will mute streams and disable the ability to download your own stream if you play music even if you own rights or a license to it.
 
-LivePeer  
-Pros:
+#### LivePeer  
+* Pros:
 1. Great way to have a censorship resistant backbone for your stream
 2. Compatible with Restream
 3. Ethereum based project
 
-Cons:
+* Cons:
 1. Has a learning curve
 2. May cost extra depending on how you have your stream setup and hosted.
 3. Still in early development
