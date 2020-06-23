@@ -18,36 +18,26 @@ There are many software options for live streaming, however the following two ar
 
 * [Xsplit](https://www.xsplit.com/) - Closed source, feature rich streaming software with a great plugin store.
 * [Open Brodcaster](https://obsproject.com/) (**OBS**) - Open source streaming software solution with a strong community of contributors.
+* [Streamlabs](https://streamlabs.com/) (StreamLabs OBS - AKA SLOBS) A fork of OBS. It saves A LOT of time but is a "walled garden ecosystem.
+* [Stream Elements' OBS Live](https://streamelements.com/obslive) - A fork of OBS for advanced stremers. It has all the bells and whistles and powerful tools. 
 
 Bots and other tools  
 * [Restream](https://restream.io/) - A free tool to multi stream to many platforms simultaneously.
 * [Stream outline template](https://docs.google.com/document/d/1ajYI9svkHA-TKIrGLDlV7aMT7-aw0-a8AANu-8hT8co/edit?usp=sharing) - A basic Template for conducting a live stream
 * [ScorpBot](https://scorpbot.com/) - Points tracking, rewards, giveaways, games, etc.
 * [StreamJar](https://streamjar.tv/) - Great chat overlay, donations, etc
-* [StreamLabs](https://streamlabs.com/) - Overlays, tips, giveaways, etc.
+* [StreamLabs](https://streamlabs.com/) - Overlays, tips, giveaways, social curreny, loyalty stores, etc.
 * [Restream](restream.io) - Stream to multiple platform at once
 * [Scottybot](https://scottybot.net/) - Automated streaming tools and other Mixer.com specific uses
 * [Appear.in](https://appear.in) - Used for guests so they don’t need an account.
 * [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en) - Easily pull up streaming pages/tools for your workfow
 * [Scorpbot](https://scorpbot.com/) - A Multi use bot that works for Twitch and [mixer.com](mixer.com)
-* [Nightbot ](https://beta.nightbot.tv/)- Youtube/Twitch moderation, automation and commands
+* [Nightbot ](https://beta.nightbot.tv/)- Youtube/Twitch moderation, automation, and commands
 
 #### Streaming Platforms
 Each of this has features that may work better depending on your needs and use case. However, Sourcerers takes the multi streaming strategy using Restream.io. This does however make your streaming setup more involved but you will capture more of an audience if you go to your audience rather than making them come to you. Having backup streams is also great if a streaming service shuts off your stream or goes down. Which happens to even the largest youtube stars and streaming channels. It’s also good to give your viewers options so they never miss your stream.
 
 Let’s dive into the pros and cons of each platform:
-
-[Mixer](https://mixer.com/)  
-Pros:
-1. Mixer is hands down the most interactive and feature rich streaming platform with interactive programmable buttons that can affect the stream in real time.
-2. You can give viewers access to your mouse and keyboard. It’s the most programmable and open streaming platform to date.
-
-Cons:
-1. It has issues with some participants with low bandwidth.
-2. It requires a Microsoft account for viewers
-3. Has less of a community of contributors, bots and extensions compared to Twitch.
-4. Geared towards the gaming community however it does provide a ‘podcast’ category that is ‘required’ for non game streams.
-5. Low quality audio in video archives.
 
 [Twitch](https://www.twitch.tv/)  
 Pros:
