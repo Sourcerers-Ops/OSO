@@ -199,6 +199,23 @@ c. Template is modified and personalized for each guest/company.
 
 ### Community Currency and Loyalty Store
 
-As a content request we will describe in detail how to create a community currency, Web3 loyalty store, and fun ways to build a rewarding experience for your viewers like we have on the [Dapp Digest](https://dappstream.live/cloudbot). 
+As a content request we will describe in detail how to create a community currency, Web3 loyalty store, and fun ways to build a rewarding experience for your viewers like we have on the [Dapp Digest](https://dappstream.live/cloudbot). This does require you to have a budget to deploy this but it's worth it when you see how powerful of a Web3 onboarding tool this can be. This could obviously be done in a more custom way (and should be) but this is a bare bones MVP anyone can do without development skills. You can also prototype community currency and Web3 concepts before actually deploying them on Ethereum fromt eh comfort of your streaming community. 
 
 #### What you will need
+* A Streamlabs account and [Creator Website](https://streamlabs.com/creator-sites) - Allows you to host the store and official website for your stream 
+* A free account on [Bit.ly](Bit.ly) - This is to shorten reward links
+* You must be familiar with [Link Drop](https://linkdrop.io/) - This is how you distribute your Web3 assets without the user paying gas
+* You must be familiar with [Typeform](https://www.typeform.com/) or a similar tool. - Mainly to make onboarding to Metamask easy
+
+#### Steps
+1. Create your Streamlabs website. It's fast and easy to do with a drag and drop interface. This can be done in an afternoon and it's fun!
+2. Go to your Streamlabs community [currency dashboard](https://streamlabs.com/dashboard#/cloudbot/loyalty/settings) and setup your currency distribution preferences. Imagine as though this is an actual crypto currency. This may be the harder part depending on if you are using a mainnet token or a yet to be launched one. Never give out more than you can afford.
+3. Create your redemption links in Link Drop. Make these for various different Web3 assets and for your Ethereum token (If already launched) 
+4. Shorten these links using bit.ly to track and monitor your links. This can help keep the links neat for your community and to track people exploiting your rewards links. Don't make too many of these just in case they are comprimised at some point. You can easily make more as you need them. 
+4. Now get your "loot box" images. There are many you can use online, buy from an artist by posting a job to Ethlance, or you can make your own in photoshop. These are just for astetics but they are eye catching and exciitng for your viewers. Especially younger users. 
+5. Now go to your [Loyalty store dashboard](https://streamlabs.com/dashboard#/cloudbot/store/items) and add your store items. Select the 'Access Code' option for item type. Then add a Title, Description, Cost, Quantity of links you have, and leave the cooldowns as is (Unless you want to have a longer cooldown before this can be used). Now click 'Next'. 6. On your 'Thumbnail image, add your 'Loot Box' graphic, then add your shortened redemption links along with a [sound effect](https://www.myinstants.com/index/us/) if you want it to fire off on your stream (Be sure to add your streamlabs overlay to your OBS sources so your viewers can see it live.
+7 Now add all of your shortened redemption links and check each of the options 'Redeem Shows Alert, Dispense Access Codes randomly, Remove Code once redeemed, Redeem Via Chat. Then add a command for people using text to redeem. Now click 'Next'
+8. Now add additional requirements if you desire. (Email, Ethereum address, Discord name, etc) and hit the 'Save' button. 
+9. Be sure you added your loyalty store module to your Streamlabs Creator Website. It's in the drag and drop component list. You may also want to add your leaderboard so your viewers can see where they stand. 
+
+That's it. Now your cloud bot page will show this item and your community can redeem it if they have a Web3 enabled wallet. You may want to create a tutorial with Typeform to help people install Metamask or a mobile Web3 wallet like we did in our store as the 'Noob Quest': https://dappstream.live/cloudbot
