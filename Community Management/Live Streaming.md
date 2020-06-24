@@ -28,11 +28,9 @@ There are many software options for live streaming, however the following two ar
 * [ScorpBot](https://scorpbot.com/) - Points tracking, rewards, giveaways, games, etc.
 * [StreamJar](https://streamjar.tv/) - Great chat overlay, donations, etc
 * [StreamLabs](https://streamlabs.com/) - Overlays, tips, giveaways, social curreny, loyalty stores, etc.
-* [Restream](restream.io) - Stream to multiple platform at once
 * [Scottybot](https://scottybot.net/) - Automated streaming tools and other Mixer.com specific uses
 * [Appear.in](https://appear.in) - Used for guests so they don’t need an account.
 * [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en) - Easily pull up streaming pages/tools for your workfow
-* [Scorpbot](https://scorpbot.com/) - A Multi use bot that works for Twitch and [mixer.com](mixer.com)
 * [Nightbot ](https://beta.nightbot.tv/)- Youtube/Twitch moderation, automation, and commands
 
 ## Streaming Platforms
@@ -200,7 +198,7 @@ c. Template is modified and personalized for each guest/company.
 
 ### Community Currency and Loyalty Store
 
-As a content request we will describe in detail how to create a community currency, Web3 loyalty store, and fun ways to build a rewarding experience for your viewers like we have on the [Dapp Digest](https://dappstream.live/cloudbot). This does require you to have a budget to deploy this but it's worth it when you see how powerful of a Web3 onboarding tool this can be. This could obviously be done in a more custom way (and should be) but this is a bare bones MVP anyone can do without development skills. You can also prototype community currency and Web3 concepts before actually deploying them on Ethereum fromt eh comfort of your streaming community. 
+As a content request we will describe in detail how to create a community currency, Web3 loyalty store, and fun ways to build a rewarding experience for your viewers like we have on the [Dapp Digest](https://dappstream.live/cloudbot). This does require you to have a budget to deploy this but it's worth it when you see how powerful of a Web3 onboarding tool this can be. This could obviously be done in a more custom way (and should be) but this is a bare bones MVP anyone can do without development skills. You can also prototype community currency and Web3 concepts before actually deploying them on Ethereum from the comfort of your streaming community. 
 
 #### What you will need
 * A Streamlabs account and [Creator Website](https://streamlabs.com/creator-sites) - Allows you to host the store and official website for your stream 
